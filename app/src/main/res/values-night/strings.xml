@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="our_fields">Our Fields</string>
+    <string name="mobile">Mobile</string>
+    <string name="web">Web</string>
+    <string name="ai">Ai</string>
+    <string name="about">GDG Algiers is a local community\n\nsituated at the Higher National\n\nSchool of Computer Science in\n\nAlgiers (ESI ex INI), Algiers, Algeria.\n \nIt is part of the big global communi\n\n-ty of developers \"Google Develop\n\n-ers Group\" an inclusive \n\nenvironment where everyone and\n\nanyone interested in tech is\n\nwelcome to join.\n\nOur community gathers motivated\n \nyoung students with similar\n\ninterests in Google technologies\n\nand devoted developers.</string>
+</resources>
